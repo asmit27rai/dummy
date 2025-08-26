@@ -1,5 +1,9 @@
 # KubeStellar Latency Controller
 
+<p align="center">
+  <img src="image (3).png" width="500" height="250" title="KS-Latency-Controller">
+</p>
+
 ## Overview
 
 The KubeStellar Latency Controller is a comprehensive monitoring solution designed to measure and track end-to-end latencies across multi-cluster workload deployments in KubeStellar environments. It provides detailed metrics collection and observability for the complete workload deployment pipeline from Workload Definition Space (WDS) to Workload Execution Clusters (WECs).
