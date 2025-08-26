@@ -83,6 +83,17 @@ Use the deployment script to install the controller:
 [--its-incluster-file "<PATH_TO_ITS_INCLUSTER_CONFIG>"]
 ```
 
+Check The latency controller service:
+```
+kubectl get pods -n wds1-system | grep "latency-controller"
+```
+
+Output:
+```
+NAME                                            READY   STATUS    RESTARTS   AGE
+latency-controller-867f84f4cf-tdl8d             1/1     Running   0          62s
+```
+
 ### Step 3: Import KubeStellar Grafana dashboards into the Grafana UI as in Monitoring Tool:
 
 Import `kubestellar-dashboard.json`
