@@ -1,7 +1,7 @@
 # KubeStellar Latency Controller
 
 <p align="center">
-  <img src="Screenshot 2025-08-27 190040.png" width="500" height="250" title="KS-Latency-Controller">
+  <img src="Screenshot 2025-08-27 205800.png" width="700" height="300" title="KS-Latency-Controller">
 </p>
 
 ## Overview
