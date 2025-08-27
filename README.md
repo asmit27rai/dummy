@@ -1,7 +1,7 @@
 # KubeStellar Latency Controller
 
 <p align="center">
-  <img src="image (3).png" width="500" height="250" title="KS-Latency-Controller">
+  <img src="Screenshot 2025-08-27 190040.png" width="500" height="250" title="KS-Latency-Controller">
 </p>
 
 ## Overview
@@ -101,6 +101,11 @@ latency-controller-867f84f4cf-tdl8d             1/1     Running   0          62s
 ### Step 3: Import KubeStellar Grafana dashboards into the Grafana UI as in Monitoring Tool:
 
 Import `kubestellar-dashboard.json`
+
+You Can See:
+<p align="center">
+  <img src="Screenshot 2025-08-27 190040.png" width="500" height="250" title="KS-Latency-Controller">
+</p>
 
 
 ## Configuration Parameters
